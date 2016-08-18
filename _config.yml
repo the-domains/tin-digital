@@ -1,0 +1,14 @@
+layout_spectrum: 0.23301139031536877
+typography_spectrum: 0.19831882161088288
+color:
+  brandStrength: 0.7463304318953305
+  lightness: 0.25161742349155247
+  saturation: 0.5925070918165147
+  rhythmicContrast: 0.8222067195456475
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+name: Tin Digital
